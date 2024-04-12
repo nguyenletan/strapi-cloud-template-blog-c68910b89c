@@ -1,0 +1,28 @@
+{
+  "collectionName": "components_shared_architecture_lists",
+  "info": {
+    "displayName": "TwoColumns",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    },
+    "column1Content": {
+      "type": "blocks"
+    },
+    "column2Content": {
+      "type": "blocks"
+    },
+    "column1Title": {
+      "type": "string"
+    },
+    "column2Title": {
+      "type": "string"
+    }
+  }
+}

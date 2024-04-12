@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_shared_text_icon_components",
+  "info": {
+    "displayName": "TextIconComponent"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "Description": {
+      "type": "blocks"
+    }
+  }
+}

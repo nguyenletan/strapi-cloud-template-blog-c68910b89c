@@ -1,16 +1,17 @@
 {
   "dependencies": {
-    "@strapi/plugin-graphql": "^4.0.5",
-    "fs-extra": "^10.0.0",
+    "@ckeditor/strapi-plugin-ckeditor": "^0.0.11",
+    "@strapi/plugin-cloud": "4.23.0",
+    "@strapi/plugin-graphql": "^4.23.0",
+    "@strapi/plugin-i18n": "4.23.0",
+    "@strapi/plugin-users-permissions": "4.23.0",
+    "@strapi/strapi": "4.23.0",
+    "better-sqlite3": "9.5.0",
+    "fs-extra": "^11.2.0",
     "lodash.set": "^4.3.2",
-    "mime-types": "^2.1.27",
-    "@strapi/strapi": "4.20.2",
-    "@strapi/plugin-users-permissions": "4.20.2",
-    "@strapi/plugin-i18n": "4.20.2",
-    "@strapi/plugin-cloud": "4.20.2",
-    "better-sqlite3": "8.6.0",
-    "react": "^18.0.0",
-    "react-dom": "^18.0.0",
+    "mime-types": "^2.1.35",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
     "react-router-dom": "5.3.4",
     "styled-components": "5.3.3"
   },
@@ -24,7 +25,6 @@
     "build": "strapi build",
     "strapi": "strapi"
   },
-  "devDependencies": {},
   "author": {
     "name": "A Strapi developer"
   },

@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_shared_left_image_right_texts",
+  "info": {
+    "displayName": "LeftImageRightText"
+  },
+  "options": {},
+  "attributes": {
+    "image": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    },
+    "text": {
+      "type": "blocks"
+    }
+  }
+}

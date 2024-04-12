@@ -1,0 +1,24 @@
+{
+  "collectionName": "components_shared_left_text_inside_images",
+  "info": {
+    "displayName": "LeftTextInsideImage",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "image": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "text": {
+      "type": "blocks"
+    }
+  }
+}
